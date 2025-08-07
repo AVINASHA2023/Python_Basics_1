@@ -1,0 +1,6 @@
+print("min() and max() function")
+print("************")
+x=min(5,6,7)
+y=max(5,6,7)
+print(x)
+print(y)
